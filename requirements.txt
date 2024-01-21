@@ -1,0 +1,3 @@
+pyfiglet
+web3
+termcolor
