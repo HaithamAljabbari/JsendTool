@@ -15,7 +15,7 @@ Wallet.txt may look like this
 
 ```
 0x984e77Ed698f724A64d169531A47f72219b659B
-<br>0x5837772DCAFE272C87Ab5513135d1F9D33160Ce49d
+0x5837772DCAFE272C87Ab5513135d1F9D33160Ce49d
 ```
 
 The first address is the sender which sends the Ethereum
