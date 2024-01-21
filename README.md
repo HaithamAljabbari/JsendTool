@@ -21,5 +21,5 @@ And the second address is the receiver which receives the Ethereum from the send
 
 </h4>DO NOT change it the other way around<h4>
 
-Here is the example of a failed transaction run by the program
+Here is the example of a failed transaction run by the program<br>
 <img width="331" alt="GEXexRGXUAA1QLl" src="https://github.com/HaithamAljabbari/JsendTool/assets/90846316/b604c51c-da3e-4336-9b43-003e25f5d032">
