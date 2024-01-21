@@ -17,9 +17,9 @@ Wallet.txt may look like this
 <br>0x5837772DCAFE272C87Ab5513135d1F9D33160Ce49d
 
 The first address is the sender which sends the Ethereum
-And the second address is the receiver which receives the Ethereum from the sender
+<br>the second address is the receiver which receives the Ethereum from the sender
 
 </h4>DO NOT change it the other way around<h4>
 
-Here is the example of a failed transaction run by the program<br>
+Here is an example of a failed transaction run by the program<br>
 <img width="331" alt="GEXexRGXUAA1QLl" src="https://github.com/HaithamAljabbari/JsendTool/assets/90846316/b604c51c-da3e-4336-9b43-003e25f5d032">
