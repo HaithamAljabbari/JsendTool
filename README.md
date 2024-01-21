@@ -16,7 +16,7 @@ Wallet.txt may look like this
 0x984e77Ed698f724A64d169531A47f72219b659B
 <br>0x5837772DCAFE272C87Ab5513135d1F9D33160Ce49d
 
-The first one is the sender
-And the second one is the receiver 
+The first address is the sender which sends the Ethereum
+And the second address is the receiver which receives the Ethereum from the sender
 
-DO NOT change it the other way around
+</h5>DO NOT change it the other way around<h5>
