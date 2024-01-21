@@ -14,7 +14,7 @@ python3 main.py wallet.txt price_number
 Wallet.txt may look like this
 
 0x984e77Ed698f724A64d169531A47f72219b659B
-0x5837772DCAFE272C87Ab5513135d1F9D33160Ce49d
+<br>0x5837772DCAFE272C87Ab5513135d1F9D33160Ce49d
 
 The first one is the sender
 And the second one is the receiver 
